@@ -1,0 +1,29 @@
+{
+  "name": "md-zheminivan",
+  "version": "1.0.0",
+  "description": "A Node.js module for quantum computing simulations and operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zheminivan/md-zheminivan"
+  },
+  "dependencies": {
+	  "vo21": "1.0.0",
+"trumposwere": "1.0.0",
+"carolgonzalez-sw": "1.0.0",
+"selivanovpetr-os": "1.0.0",
+"dorothymoore": "1.0.0",
+"solodop": "1.0.0",
+    "qiskit": "^1.0.0",
+    "mathjs": "^9.4.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zheminivan/md-zheminivan/issues"
+  },
+  "homepage": "https://github.com/zheminivan/md-zheminivan#readme"
+}
